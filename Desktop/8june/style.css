@@ -1,0 +1,179 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html,body{
+    height: 100%;
+    width: 100%;
+}
+#main{
+    height: 100%;
+    width: 100%;
+}
+
+#page1{ 
+    height: 100%;
+    width: 100%; 
+    position: absolute;
+    background-color: rgb(189, 189, 189);
+}
+#color{
+    position: absolute;
+    height: 47%;
+    width: 100%;
+    /* background-color:#F17647; */
+    background: linear-gradient(#F17647, rgb(144, 60, 8));
+    top: 53%;
+    clip-path: polygon(100% 0, 0% 100%, 100% 100%);
+}
+#color2{
+position: absolute;
+    height: 24%;
+    width: 20%;
+    /* background-color:#F17647; */
+    background: linear-gradient(#F17647, rgb(144, 60, 8));
+    clip-path: polygon(0 0, 0% 100%, 100% 0);
+}
+#logo i {
+    padding: 2px 1px;
+    height: 40px;
+    width: 30px;
+    position: absolute;
+}
+#logo h3{
+    position: absolute;
+    padding: 2px 1px;
+    left: 15%;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgba(0, 0, 0, 0.765);
+    font-size: 12px;
+    font-weight: 500;
+}
+#logo h3:hover{
+    color: rgb(189, 189, 189);
+    background: linear-gradient(#F17647, rgb(144, 60, 8));
+    padding: 2px 4px;
+    border-radius: 50px;
+}
+#text1{
+    position: absolute;
+    top: 24%;
+    left: 85%;
+}
+#text1 h4{
+    font-family: bebas;
+    font-weight: 100;
+    font-size: 35px;
+    border: 1px solid  #067312;
+    transition: all cubic-bezier(0.19, 1, 0.22, 1)1s;
+}
+
+#text1 h4 span{
+    color: #067312;
+}
+#text1 h4:hover{
+    font-size: 38px;
+    transition: all cubic-bezier(0.19, 1, 0.22, 1)2s;
+}
+#nav{
+    height: 25px;
+    width: 40%; 
+    left: 60%;
+    display: flex;
+    justify-content: space-around;
+    gap: 12;
+    align-items: center;
+    font-family: "poppins";
+    font-size: 11px;
+    position: absolute;
+}
+ #nav a{
+    text-decoration: none;
+    color: black;
+}
+#nav a:hover{
+    color: rgb(189, 189, 189);
+    background: linear-gradient(#F17647, rgb(144, 60, 8));
+    padding: 2px 4px;
+    border-radius: 50px;
+}
+#page1 h1{
+    position: absolute;
+    top: 10%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    font-family: bebas;
+    font-size: 100px;
+    font-weight: 300;
+    color: #080808;
+    border-bottom: 1px solid rgb(8, 7, 7);
+    letter-spacing: 2px;
+    transition: all cubic-bezier(0.19, 1, 0.22, 1)0.1s;
+}
+#page1 h1:hover{
+    color:  #b03c0ee9;
+    font-size: 80px;
+    transition: all cubic-bezier(0.6, -0.28, 0.735, 0.045)0.5s;
+    letter-spacing: -1px;
+}
+#page1 h2{
+    position: absolute;
+    top: 25%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    /* font-family: bebas; */
+    font-size: 20px;
+    font-weight: 100;
+    color: #646161;
+    letter-spacing: 2px;
+}
+#page1 p{
+    position: absolute;
+    top: 54%;
+    left: 20%;
+    margin-left: 47px;
+    transform: translate(-50%,-50%);
+    font-family: poppins;
+    font-size: 11px;
+    font-weight: 300;
+    color: #080808;
+    
+}
+#page1 img{
+    position: absolute;
+    height: 42%;
+    width: 27%;
+    top: 70%;
+    left: 50%;
+    transform: translate(-50% , -50%);
+    background-position: center;
+    background-size: cover;
+    filter: brightness(0.8);
+    animation-name: tomato;
+    animation-duration: 3s;
+    animation-delay: 1s;
+    animation-timing-function: cubic-bezier(0.19, 1, 0.22, 1);
+}
+@keyframes tomato {
+    0%{
+        top: 0;
+        left: 5;
+    }
+    100%{
+        top: 70%;
+        right: 50%;
+    }
+    
+}
+@keyframes table {
+    0%{
+        right: 0;
+        bottom: 0;
+    }
+    100%{
+        right: 10%;
+        bottom: 50%;
+    }
+    
+}

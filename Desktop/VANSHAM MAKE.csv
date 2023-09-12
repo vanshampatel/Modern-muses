@@ -1,0 +1,75 @@
+restaurantId,mainCategoryId,mainCategoryName,subCategoryId,subCategoryName,itemId,Name,description,Parent,Variant Group Id,Variant Group Name,Variant Id,Variant Default Value,in_stock,price,veg_egg_non,packingCharges,is_spicy,serves how many,Service_Charges (%),Item_SGST/UTGST,Item_CGST,Item_IGST,Item_inclusive,GST_Liability,Slab Count,Disable,Preparation Style,quantity,spice_level,sweet_level,bone_property,gravy_property,contain_seasonal_ingredients,accompaniments,prep_style,serves_how_many_upper_limit,packaging,cutlery,allergen_info,Monday Open 1,Monday Close 1,Monday Open 2,Monday Close 2,Monday Open 3,Monday Close 3,Tuesday Open 1,Tuesday Close 1,Tuesday Open 2,Tuesday Close 2,Tuesday Open 3,Tuesday Close 3,Wednesday Open 1,Wednesday Close 1,Wednesday Open 2,Wednesday Close 2,Wednesday Open 3,Wednesday Close 3,Thursday Open 1,Thursday Close 1,Thursday Open 2,Thursday Close 2,Thursday Open 3,Thursday Close 3,Friday Open 1,Friday Close 1,Friday Open 2,Friday Close 2,Friday Open 3,Friday Close 3,Saturday Open 1,Saturday Close 1,Saturday Open 2,Saturday Close 2,Saturday Open 3,Saturday Close 3,Sunday Open 1,Sunday Close 1,Sunday Open 2,Sunday Close 2,Sunday Open 3,Sunday Close 3,delete,external_id,restuarantCategoryName,restuarantSubCategoryName,restuarantType,Eligible For Long Distance,Item type
+,,Non-Veg Main Courses(Gravy),,nota,,Murgh Rarha Keema Special ,,I1,,,,,1,550,Non-Veg,0,0,,0,0.025,0.025,0,,SWIGGY,1,0,,,NOT_APPLICABLE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,REGULAR
+,,,,,,Half,,V1,,Quantity,,1,1,0,Non-Veg,,,,,0.025,0.025,0,,SWIGGY,,,,,NOT_APPLICABLE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,REGULAR
+,,,,,,Full,,V1,,Quantity,,0,1,300,Non-Veg,,,,,0.025,0.025,0,,SWIGGY,,,,,NOT_APPLICABLE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,REGULAR
+,,Non-Veg Main Courses(Gravy),,nota,,Murgh Mughlai Special,,I2,,,,,,550,Non-Veg,0,0,,0,0.025,0.025,0,,SWIGGY,1,0,,,NOT_APPLICABLE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,REGULAR
+,,,,,,Half,,V2,,Quantity,,1,1,0,Non-Veg,,,,,0.025,0.025,0,,SWIGGY,,,,,NOT_APPLICABLE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,REGULAR
+,,,,,,Full,,V2,,Quantity,,0,1,300,Non-Veg,,,,,0.025,0.025,0,,SWIGGY,,,,,NOT_APPLICABLE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,REGULAR
+,,Non-Veg Main Courses(Gravy),,nota,,Chicken Korma Special,,I3,,,,,,550,Non-Veg,0,0,,0,0.025,0.025,0,,SWIGGY,1,0,,,NOT_APPLICABLE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,REGULAR
+,,,,,,Half,,V3,,Quantity,,1,1,0,Non-Veg,,,,,0.025,0.025,0,,SWIGGY,,,,,NOT_APPLICABLE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,REGULAR
+,,,,,,Full,,V3,,Quantity,,0,1,300,Non-Veg,,,,,0.025,0.025,0,,SWIGGY,,,,,NOT_APPLICABLE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,REGULAR
+,,Non-Veg Main Courses(Gravy),,nota,,Murgh Changezi Special,,I4,,,,,,550,Non-Veg,0,0,,0,0.025,0.025,0,,SWIGGY,1,0,,,NOT_APPLICABLE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,REGULAR
+,,,,,,Half,,V4,,Quantity,,1,1,0,Non-Veg,,,,,0.025,0.025,0,,SWIGGY,,,,,NOT_APPLICABLE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,REGULAR
+,,,,,,Full,,V4,,Quantity,,0,1,300,Non-Veg,,,,,0.025,0.025,0,,SWIGGY,,,,,NOT_APPLICABLE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,REGULAR
+,,Non-Veg Main Courses(Gravy),,nota,,"Murgh Tikka Butter Masala (6pcs,12pcs)",,I5,,,,,,550,Non-Veg,0,0,,0,0.025,0.025,0,,SWIGGY,1,0,,,NOT_APPLICABLE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,REGULAR
+,,,,,,Half,,V5,,Quantity,,1,1,0,Non-Veg,,,,,0.025,0.025,0,,SWIGGY,,,,,NOT_APPLICABLE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,REGULAR
+,,,,,,Full,,V5,,Quantity,,0,1,300,Non-Veg,,,,,0.025,0.025,0,,SWIGGY,,,,,NOT_APPLICABLE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,REGULAR
+,,Non-Veg Main Courses(Gravy),,nota,,Butter Chicken ,,I6,,,,,,300,Non-Veg,0,0,,0,0.025,0.025,0,,SWIGGY,1,0,,,NOT_APPLICABLE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,REGULAR
+,,,,,,Quarter,,V6,,Quantity,,1,1,0,Non-Veg,,,,,0.025,0.025,0,,SWIGGY,,,,,NOT_APPLICABLE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,REGULAR
+,,,,,,Half,,V6,,Quantity,,0,1,200,Non-Veg,,,,,0.025,0.025,0,,SWIGGY,,,,,NOT_APPLICABLE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,REGULAR
+,,,,,,Full,,V6,,Quantity,,0,1,500,Non-Veg,,,,,0.025,0.025,0,,SWIGGY,,,,,NOT_APPLICABLE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,REGULAR
+,,Non-Veg Main Courses(Gravy),,nota,,Kadhai Chicken,,I7,,,,,,300,Non-Veg,0,0,,0,0+T21:U65.025,0.025,0,,SWIGGY,1,0,,,NOT_APPLICABLE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,REGULAR
+,,,,,,Quarter,,V7,,Quantity,,1,1,0,Non-Veg,,,,,0.025,0.025,0,,SWIGGY,,,,,NOT_APPLICABLE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,REGULAR
+,,,,,,Half,,V7,,Quantity,,0,1,200,Non-Veg,,,,,0.025,0.025,0,,SWIGGY,,,,,NOT_APPLICABLE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,REGULAR
+,,,,,,Full,,V7,,Quantity,,0,1,500,Non-Veg,,,,,0.025,0.025,0,,SWIGGY,,,,,NOT_APPLICABLE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,REGULAR
+,,Non-Veg Main Courses(Gravy),,nota,,Kadhai Chicken,,I8,,,,,,300,Non-Veg,0,0,,0,0.025,0.025,0,,SWIGGY,1,0,,,NOT_APPLICABLE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,REGULAR
+,,,,,,Quarter,,V8,,Quantity,,1,1,0,Non-Veg,,,,,0.025,0.025,0,,SWIGGY,,,,,NOT_APPLICABLE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,REGULAR
+,,,,,,Half,,V8,,Quantity,,0,1,200,Non-Veg,,,,,0.025,0.025,0,,SWIGGY,,,,,NOT_APPLICABLE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,REGULAR
+,,,,,,Full,,V8,,Quantity,,0,1,500,Non-Veg,,,,,0.025,0.025,0,,SWIGGY,,,,,NOT_APPLICABLE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,REGULAR
+,,Non-Veg Main Courses(Gravy),,nota,,Chicken Dahi Kali Mirch,,I9,,,,,,300,Non-Veg,0,0,,0,0.025,0.025,0,,SWIGGY,1,0,,,NOT_APPLICABLE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,REGULAR
+,,,,,,Quarter,,V9,,Quantity,,1,1,0,Non-Veg,,,,,0.025,0.025,0,,SWIGGY,,,,,NOT_APPLICABLE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,REGULAR
+,,,,,,Half,,V9,,Quantity,,0,1,200,Non-Veg,,,,,0.025,0.025,0,,SWIGGY,,,,,NOT_APPLICABLE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,REGULAR
+,,,,,,Full,,V9,,Quantity,,0,1,500,Non-Veg,,,,,0.025,0.025,0,,SWIGGY,,,,,NOT_APPLICABLE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,REGULAR
+,,Non-Veg Main Courses(Gravy),,nota,,Chicken Dhania Adraki ,,I10,,,,,,300,Non-Veg,0,0,,0,0.025,0.025,0,,SWIGGY,1,0,,,NOT_APPLICABLE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,REGULAR
+,,,,,,Quarter,,V10,,Quantity,,1,1,0,Non-Veg,,,,,0.025,0.025,0,,SWIGGY,,,,,NOT_APPLICABLE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,REGULAR
+,,,,,,Full,,V10,,Quantity,,0,1,200,Non-Veg,,,,,0.025,0.025,0,,SWIGGY,,,,,NOT_APPLICABLE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,REGULAR
+,,,,,,Half,,V10,,Quantity,,0,1,500,Non-Veg,,,,,0.025,0.025,0,,SWIGGY,,,,,NOT_APPLICABLE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,REGULAR
+,,Non-Veg Main Courses(Gravy),,nota,,Chicken Curry (Home Style),,I11,,,,,,300,Non-Veg,0,0,,0,0.025,0.025,0,,SWIGGY,1,0,,,NOT_APPLICABLE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,REGULAR
+,,,,,,Quarter,,V11,,Quantity,,1,1,0,Non-Veg,,,,,0.025,0.025,0,,SWIGGY,,,,,NOT_APPLICABLE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,REGULAR
+,,,,,,Half,,V11,,Quantity,,0,1,200,Non-Veg,,,,,0.025,0.025,0,,SWIGGY,,,,,NOT_APPLICABLE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,REGULAR
+,,,,,,Full,,V11,,Quantity,,0,1,500,Non-Veg,,,,,0.025,0.025,0,,SWIGGY,,,,,NOT_APPLICABLE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,REGULAR
+,,Chinese Starters (non-veg),,nota,,special Garlic Chicken ,,I12,,,,,1,450,Non-Veg,0,0,,0,0.025,0.025,0,,SWIGGY,1,0,,,NOT_APPLICABLE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,REGULAR
+,,,,,,Half,,V12,,Quantity,,1,1,0,Non-Veg,,,,,0.025,0.025,0,,SWIGGY,,,,,NOT_APPLICABLE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,REGULAR
+,,,,,,Full,,V12,,Quantity,,0,1,300,Non-Veg,,,,,0.025,0.025,0,,SWIGGY,,,,,NOT_APPLICABLE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,REGULAR
+,,Chinese Starters (non-veg),,nota,,Chicken Salt N' Pepper,,I13,,,,,1,450,Non-Veg,0,0,,0,0.025,0.025,0,,SWIGGY,1,0,,,NOT_APPLICABLE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,REGULAR
+,,,,,,Half,,V13,,Quantity,,1,1,0,Non-Veg,,,,,0.025,0.025,0,,SWIGGY,,,,,NOT_APPLICABLE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,REGULAR
+,,,,,,Full,,V13,,Quantity,,0,1,300,Non-Veg,,,,,0.025,0.025,0,,SWIGGY,,,,,NOT_APPLICABLE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,REGULAR
+,,Chinese Starters (non-veg),,nota,,Special Chicken 65,,I14,,,,,1,450,Non-Veg,0,0,,0,0.025,0.025,0,,SWIGGY,1,0,,,NOT_APPLICABLE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,REGULAR
+,,,,,,Half,,V14 ,,Quantity,,1,1,0,Non-Veg,,,,,0.025,0.025,0,,SWIGGY,,,,,NOT_APPLICABLE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,REGULAR
+,,,,,,Full,,V14 ,,Quantity,,0,1,300,Non-Veg,,,,,0.025,0.025,0,,SWIGGY,,,,,NOT_APPLICABLE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,REGULAR
+,,Chinese Starters (non-veg),,nota,,Junglee Chicken,,I15,,,,,1,450,Non-Veg,0,0,,0,0.025,0.025,0,,SWIGGY,1,0,,,NOT_APPLICABLE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,REGULAR
+,,,,,,Half,,V15,,Quantity,,1,1,0,Non-Veg,,,,,0.025,0.025,0,,SWIGGY,,,,,NOT_APPLICABLE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,REGULAR
+,,,,,,Full,,V15,,Quantity,,0,1,300,Non-Veg,,,,,0.025,0.025,0,,SWIGGY,,,,,NOT_APPLICABLE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,REGULAR
+,,Chinese Starters (non-veg),,nota,,Peri-Peri Chicken,,I16,,,,,1,450,Non-Veg,0,0,,0,0.025,0.025,0,,SWIGGY,1,0,,,NOT_APPLICABLE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,REGULAR
+,,,,,,Half,,V16,,Quantity,,1,1,0,Non-Veg,,,,,0.025,0.025,0,,SWIGGY,,,,,NOT_APPLICABLE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,REGULAR
+,,,,,,Full,,V16,,Quantity,,0,1,300,Non-Veg,,,,,0.025,0.025,0,,SWIGGY,,,,,NOT_APPLICABLE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,REGULAR
+,,Chinese Starters (non-veg),,nota,,Chilly Chicken,,I17,,,,,1,450,Non-Veg,0,0,,0,0.025,0.025,0,,SWIGGY,1,0,,,NOT_APPLICABLE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,REGULAR
+,,,,,,Half,,V17,,Quantity,,1,1,0,Non-Veg,,,,,0.025,0.025,0,,SWIGGY,,,,,NOT_APPLICABLE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,REGULAR
+,,,,,,Full,,V17,,Quantity,,0,1,300,Non-Veg,,,,,0.025,0.025,0,,SWIGGY,,,,,NOT_APPLICABLE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,REGULAR
+,,Chinese Starters (non-veg),,nota ,,Drums Of Heaven,,I18,,,,,1,350,Non-Veg,0,0,,0,0.025,0.025,0,,SWIGGY,1,0,,,NOT_APPLICABLE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,REGULAR
+,,,,,,Half,,V18,,Quantity,,1,1,0,Non-Veg,,,,,0.025,0.025,0,,SWIGGY,,,,,NOT_APPLICABLE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,REGULAR
+,,,,,,Full,,V18,,Quantity,,0,1,100,Non-Veg,,,,,0.025,0.025,0,,SWIGGY,,,,,NOT_APPLICABLE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,REGULAR
+,,Chinese Starters (non-veg),,nota ,,Hot Garlic/Black Pepper Wings,,I19,,,,,1,350,Non-Veg,0,0,,0,0.025,0.025,0,,SWIGGY,1,0,,,NOT_APPLICABLE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,REGULAR
+,,,,,,Half,,V19,,Quantity,,1,1,0,Non-Veg,,,,,0.025,0.025,0,,SWIGGY,,,,,NOT_APPLICABLE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,REGULAR
+,,,,,,Full,,V19,,Quantity,,0,1,100,Non-Veg,,,,,0.025,0.025,0,,SWIGGY,,,,,NOT_APPLICABLE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,REGULAR
+,,Chinese Starters (non-veg),,nota ,,Crispy Fried Chicken,,I20,,,,,1,450,Non-Veg,0,0,,0,0.025,0.025,0,,SWIGGY,1,0,,,NOT_APPLICABLE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,REGULAR
+,,,,,,Half,,V20,,Quantity,,1,1,0,Non-Veg,,,,,0.025,0.025,0,,SWIGGY,,,,,NOT_APPLICABLE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,REGULAR
+,,,,,,Full,,V20,,Quantity,,0,1,300,Non-Veg,,,,,0.025,0.025,0,,SWIGGY,,,,,NOT_APPLICABLE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,REGULAR
+,,Chinese Starters (non-veg),,nota ,,Crispy Fried Tangri,,I21,,,,,1,350,Non-Veg,0,0,,0,0.025,0.025,0,,SWIGGY,1,0,,,NOT_APPLICABLE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,REGULAR
+,,,,,,Half,,V21,,Quantity,,1,1,0,Non-Veg,,,,,0.025,0.025,0,,SWIGGY,,,,,NOT_APPLICABLE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,REGULAR
+,,,,,,Full,,V21,,Quantity,,0,1,100,Non-Veg,,,,,0.025,0.025,0,,SWIGGY,,,,,NOT_APPLICABLE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,REGULAR
+,,Chinese Starters (non-veg),,nota ,,Pop-Corn Chicken,,I22,,,,,1,250,Non-Veg,0,0,,0,0.025,0.025,0,,SWIGGY,1,0,,,NOT_APPLICABLE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,REGULAR
+,,,,,,Half,,V22,,Quantity,,1,1,0,Non-Veg,,,,,0.025,0.025,0,,SWIGGY,,,,,NOT_APPLICABLE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,REGULAR
+,,,,,,Full,,V22,,Quantity,,0,1,100,Non-Veg,,,,,0.025,0.025,0,,SWIGGY,,,,,NOT_APPLICABLE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,REGULAR
+,,Chinese Starters (non-veg),,nota,,Fish Orley/ Chilli  Fish,,I23,,,,,1,,Non-Veg,0,0,,0,0.025,0.025,0,,SWIGGY,1,0,,,NOT_APPLICABLE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SEASONAL
+,,Chinese Starters (non-veg),,nota,,Fish Finger In Tartar Sauce,,I24,,,,,1,,Non-Veg,0,0,,0,0.025,0.025,0,,SWIGGY,1,0,,,NOT_APPLICABLE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SEASONAL

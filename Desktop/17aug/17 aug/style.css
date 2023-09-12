@@ -1,0 +1,44 @@
+*{
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+}
+html , body{
+    height: 100%;
+    width: 100%;
+}
+#main{
+    height: 100%;
+    width: 100%;
+    background-color: black;
+    position: relative;
+    background-color: purple;
+    display: flex;
+    align-items: center;
+    justify-content:center;
+}
+.page1{
+    height: 50%;
+    width: 100%;
+    position: relative;
+    background-color: purple;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px;
+}
+#one{
+    height: 0%;
+    position: absolute;
+    border-radius: 20px;
+}
+#two{
+    height: 0%;
+    position: absolute;
+    border-radius: 20px;
+}
+#three{
+    height: 0%;
+    position: absolute;
+    border-radius: 20px;
+}
