@@ -1,4 +1,11 @@
-
+@font-face {
+    font-family:nostalgia;
+    src: url(nostalgia.woff2);
+}
+@font-face {
+    font-family: montserrat;
+    src: url(Montserrat-VariableFont_wght.woff2);
+}
  *{
    margin: 0;
    padding: 0;
@@ -25,22 +32,23 @@ nav{
     position: relative;
     display: flex;
     align-items: center;
+    /* background-color:blue; */
     justify-content: space-between;
-    padding: 20px 50px;
+    padding: 0px 50px;
+    padding-top: 1vw;
 }
 .nav-part1 img{
-    height: 60px;
-    width: 138px;
+    height: 80px;
+    width: 185px;
     /* background-color: rgb(206, 141, 141); */
 }
 .nav-part2{
     display: flex;
     align-items: center;
-    gap: 35px;
-    font-family:montserrat;
+    gap: 42px;
 }
 .nav-part2 h4{
-    font-size: 8px;
+    font-size:0.8vw;
     color:#423a2f;
     font-weight: 550;
     position: relative;
@@ -61,9 +69,9 @@ nav{
     width: 100%;
 }
 .nav-part2 button{
-    font-size: 8px;
-    font-weight: 550;
-    padding: 8px 18px;
+    font-size: 0.7vw;
+    font-weight:450;
+    padding: 0.9vw 1.8vw;
     border-radius: 5px;
     background-color:#252524;
     color: rgb(255, 255, 255);
@@ -103,7 +111,7 @@ nav{
 }
 .text h5{
     margin-top: 50px;
-    font-size: 0.9vw;
+    font-size: 1vw;
     font-weight: 450;
 }
 .text h1{
@@ -116,7 +124,7 @@ nav{
 }
 .page2{
     position: relative;
-    height: 90vh;
+    height: 100vh;
     width: 100vw;
     background-color:#F6F7F0;
 }
@@ -127,10 +135,11 @@ nav{
     align-items: center;
     justify-content: space-between;
     padding:0px 100px;
+    /* background-color: firebrick; */
 }
 .text-2 h4{
     position: relative;
-    font-size: 10px;
+    font-size: 14px;
     color: rgb(158, 158, 120);
     font-family: nostalgia;
     letter-spacing: 5px;
@@ -153,7 +162,7 @@ nav{
     position: absolute;
     top: 10%;
     left: 33%;
-    height: 62vh;
+    height: 69vh;
     width: 33vw;
     border-radius: 10px;
     overflow: hidden;
@@ -161,25 +170,27 @@ nav{
 .round-img{
     position: absolute;
     z-index: 1;
-    top: 0;
-    left:60%;
-    height: 115px;
-    width: 115px;
+    top: 1.5%;
+    left:61.5%;
+    height: 125px;
+    /* background-color: yellow; */
+    width: 125px;
 }
 .round-img>img{
-    height: 120px;
-    width: 120px;
+    height: 130px;
+    width: 130px;
 }
 .video-img>img{
     height: 100%;
     width: 100%;
 }
 .page2-txt{
-    padding-top: 35px;
+    padding-top:4vw;
 }
 .page2-txt>p{
     padding: 0px 100px;
-    font-size: 10px;
+    font-size:13px;
+    padding-bottom: 30px;
     font-weight: 500;
     color:black;
     text-align: center;    
@@ -253,10 +264,10 @@ nav{
     scale: 0.2;
 }
 .firstpopup h3{
-    font-size: 38px;
+    font-size:3vw;
     font-family: nostalgia;
     text-align: center;
-    line-height: 42px;
+    line-height:3.2vw;
     font-weight: 400;
 }
 .secondpopup{
@@ -275,10 +286,10 @@ nav{
     scale: 0.5;
 }
 .secondpopup h3{
-    font-size: 38px;
+    font-size: 3vw;
     font-family: nostalgia;
     text-align: center;
-    line-height: 42px;
+    line-height:3.2vw;
     font-weight: 400;
 }
 .thirdpopup{
@@ -297,10 +308,10 @@ nav{
     scale: 0.5;
 }
 .thirdpopup h3{
-    font-size: 38px;
+    font-size: 3.2vw;
     font-family: nostalgia;
     text-align: center;
-    line-height: 42px;
+    line-height:3vw;
     font-weight: 400;
 }
 .page4{
@@ -331,8 +342,8 @@ nav{
     padding: 25px;
 }
 .new{
-    height: 70px;
-    width: 70px;
+    height: 80px;
+    width: 80px;
     border-radius: 50%;
     position: absolute;
     left: 92%;
@@ -342,10 +353,9 @@ nav{
     display: flex;
     align-items: center;
     justify-content: center;
-    font-size: 7px;
+    font-size: 10px;
     text-transform: uppercase;
     transition: all ease-in 0.5s;
-    border: 1px solid white;
 }
 .new:hover{
     background-color: white;
@@ -369,24 +379,24 @@ nav{
 }
 .outer-div>h3{
     font-family: nostalgia;
-    font-size: 3.1vw;
+    font-size: 3.3vw;
     margin-top: 70px;
     font-weight: 400;
     line-height: 3.8vw;
     text-align: center;
 }
 .outer-div>button{
-    font-size: 6px;
-    margin-top: 30px;
-    margin-left: 41%;
+    font-size: 12px;
+    margin-top: 4vw;
     letter-spacing: 1px;
+    margin-left: 38%;
     background-color:#636143;
     color:white;
     font-weight: 500;
     border-radius: 5px;
     border: none;
     text-transform: uppercase;
-    padding: 14px 14px;
+    padding: 1vw 2.2vw;
     box-shadow: 5px 5px 5px rgb(96, 91, 91);
 }
 .page5{
@@ -402,7 +412,7 @@ nav{
     justify-content: center;
 }
 .page5-top h5{
-    font-size: 9px;
+    font-size:11px;
     font-weight: 440;
     margin-bottom: 30vh;
 }
@@ -725,10 +735,10 @@ nav{
 }
 .circle{
     position:absolute;
-    top: -10%;
+    top: -8%;
     left: 90%;
-    height: 90px;
-    width: 90px;
+    height: 115px;
+    width: 115px;
 }
 .circle>img{
     height: 100%;
@@ -802,19 +812,20 @@ nav{
     height: 20px;
 }
 .f-two>h4{
-    font-size: 0.8vw;
+    font-size: 0.9vw;
     font-weight: 450;
 }
 .f-three>h4{
-    font-size: 0.8vw;
+    font-size: 0.9vw;
     font-weight: 450;
 }
 .f-four>h4{
-    font-size: 0.8vw;
+    font-size: 1vw;
     font-weight: 450;
+    text-transform: capitalize;
 }
 .f-five>img{
-    height: 16px;
+    height: 22px;
     padding-right: 50px;
 }
 

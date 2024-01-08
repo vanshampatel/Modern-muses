@@ -32,7 +32,7 @@ loco();
 var tl3 = gsap.timeline()
 tl3.from(".text h1",{
     y:"100%",
-    duration:2,
+    duration:1,
     stagger:.3,
 })
 
